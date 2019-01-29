@@ -1,6 +1,6 @@
 Implementing “k- means” algorithm for Wisconsin Breast Cancer data using Python
 
-Project description :Implemented one of the most popular data mining technique
+Project description :
 
 
 k-means clustering on very famous Wisconsin Breast Cancer Data. Classification done for benign and malign cells in two different groups on the dataset.
